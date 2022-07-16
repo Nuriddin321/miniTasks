@@ -1,0 +1,15 @@
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/bin/Debug/net6.0/PrinceClass
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/bin/Debug/net6.0/PrinceClass.deps.json
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/bin/Debug/net6.0/PrinceClass.runtimeconfig.json
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/bin/Debug/net6.0/PrinceClass.dll
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/bin/Debug/net6.0/PrinceClass.pdb
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.csproj.AssemblyReference.cache
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.AssemblyInfoInputs.cache
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.AssemblyInfo.cs
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.csproj.CoreCompileInputs.cache
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.dll
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/refint/PrinceClass.dll
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.pdb
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/PrinceClass.genruntimeconfig.cache
+/home/nuriddin/Desktop/MyApp/prince_Class/PrinceClass/obj/Debug/net6.0/ref/PrinceClass.dll
